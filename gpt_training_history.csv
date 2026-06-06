@@ -21,3 +21,14 @@ step,train_loss,val_loss,exp_type
 4000,tensor(1.6538),tensor(1.8338),baseline
 4500,tensor(1.6346),tensor(1.8282),baseline
 4999,tensor(1.6277),tensor(1.8288),baseline
+0,tensor(4.1951),tensor(4.1957),4 sa_blocks
+500,tensor(2.2955),tensor(2.3122),4 sa_blocks
+1000,tensor(1.9479),tensor(2.0550),4 sa_blocks
+1500,tensor(1.7927),tensor(1.9205),4 sa_blocks
+2000,tensor(1.6796),tensor(1.8466),4 sa_blocks
+2500,tensor(1.6300),tensor(1.8134),4 sa_blocks
+3000,tensor(1.5768),tensor(1.7674),4 sa_blocks
+3500,tensor(1.5486),tensor(1.7461),4 sa_blocks
+4000,tensor(1.5225),tensor(1.7322),4 sa_blocks
+4500,tensor(1.5030),tensor(1.7028),4 sa_blocks
+4999,tensor(1.4842),tensor(1.6913),4 sa_blocks
