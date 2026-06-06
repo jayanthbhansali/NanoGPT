@@ -1,0 +1,23 @@
+step,train_loss,val_loss,exp_type
+0,tensor(4.1924),tensor(4.1891),No ln_f
+500,tensor(2.5255),tensor(2.5375),No ln_f
+1000,tensor(2.4201),tensor(2.4473),No ln_f
+1500,tensor(2.3424),tensor(2.4049),No ln_f
+2000,tensor(2.1524),tensor(2.2426),No ln_f
+2500,tensor(2.0107),tensor(2.1313),No ln_f
+3000,tensor(1.9349),tensor(2.0607),No ln_f
+3500,tensor(1.8817),tensor(2.0194),No ln_f
+4000,tensor(1.8517),tensor(1.9975),No ln_f
+4500,tensor(1.8086),tensor(1.9670),No ln_f
+4999,tensor(1.7873),tensor(1.9591),No ln_f
+0,tensor(4.2044),tensor(4.2078),baseline
+500,tensor(2.5033),tensor(2.5100),baseline
+1000,tensor(2.4087),tensor(2.4348),baseline
+1500,tensor(2.2945),tensor(2.3816),baseline
+2000,tensor(1.9868),tensor(2.1073),baseline
+2500,tensor(1.8074),tensor(1.9597),baseline
+3000,tensor(1.7254),tensor(1.9002),baseline
+3500,tensor(1.6751),tensor(1.8664),baseline
+4000,tensor(1.6538),tensor(1.8338),baseline
+4500,tensor(1.6346),tensor(1.8282),baseline
+4999,tensor(1.6277),tensor(1.8288),baseline
